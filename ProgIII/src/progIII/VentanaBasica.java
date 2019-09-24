@@ -5,7 +5,8 @@ import javax.swing.JFrame;
 public class VentanaBasica extends JFrame{
 	
 	public VentanaBasica(){
-		this.setSize(320, 240);
+		this.setTitle("practica1");
+		this.setSize(320, 340);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		 
 	}
