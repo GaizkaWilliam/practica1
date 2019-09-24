@@ -12,7 +12,8 @@ public class VentanaBasica extends JFrame{
 	}
 	
 public static void main(String[] args) {
-		
+		new VentanaBasica();
+	        system.out.println("Cambio");
 	}
 
 
